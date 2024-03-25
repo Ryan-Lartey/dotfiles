@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = RYANLARTEY-SE@OUTLOOK.COM
+	name = Ryan Lartey
